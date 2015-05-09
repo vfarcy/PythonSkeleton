@@ -13,7 +13,9 @@ All the basics to get a new Pyhton project up and running.
 
 - One of these environments is needed for each project.
 
--  To use the versions of python and pip inside the environment, type env/bin/python and env/bin/pip respectively.   
+-  To use the versions of python and pip inside the environment, type env/bin/python and env/bin/pip respectively. 
+  
+- To make the project a standard Python packages so it can be imported later, two empry files called __init__.py have to be created
  
 ## Guidelines ##
   
